@@ -4,7 +4,7 @@ export default class Event extends Component{
     constructor(){
         super();
         this.state={
-            data:'hello krishna'
+            data:'hello krishna how are u'
         }
     }
     render(){
